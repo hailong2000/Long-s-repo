@@ -1,0 +1,10 @@
+{
+    "url": "https://opensource-demo.orangehrmlive.com",
+    "username": "Admin",
+    "password": "admin123",
+    "timeouts": {
+        "implicit": 0,
+        "page_load": 30,
+        "explicit": 10
+    }
+}

@@ -1,0 +1,5 @@
+The web's url is: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+Đã nhập username
+Đã nhập password
+Đã nhấn nút Login
+Đăng nhập thành công
