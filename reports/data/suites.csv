@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test to verify that a user can log in with valid credentials.","2327","test_valid_login","tests","Fri Jul 25 16:22:55 GMT+07:00 2025","passed","Fri Jul 25 16:22:58 GMT+07:00 2025","TestLogin","login_test","",""
