@@ -1,0 +1,4 @@
+URL trang web là: https://www.saucedemo.com/
+Đã mở trang đăng nhập.
+Đã cố gắng đăng nhập với tên người dùng: standard_user
+Đăng nhập thành công!

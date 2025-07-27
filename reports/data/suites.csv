@@ -1,2 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Test to verify that a user can log in with valid credentials.","2327","test_valid_login","tests","Fri Jul 25 16:22:55 GMT+07:00 2025","passed","Fri Jul 25 16:22:58 GMT+07:00 2025","TestLogin","login_test","",""
+"Kiểm thử để xác minh rằng người dùng đăng nhập bằng thông tin đăng nhập đúng.","350","test_valid_login","tests","Sun Jul 27 23:45:05 GMT+07:00 2025","passed","Sun Jul 27 23:45:06 GMT+07:00 2025","TestLogin","test_login","",""
+"","990","test_add_3_products_and_complete_checkout","tests","Sun Jul 27 23:45:24 GMT+07:00 2025","passed","Sun Jul 27 23:45:25 GMT+07:00 2025","TestCheckoutScenario","test_checkout","",""
